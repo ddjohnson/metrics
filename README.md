@@ -8,5 +8,5 @@
 
 - TODO 
    -- batch up metrics rather then acrew over head from re-establishing sessions
-
+   -- still trying to locate how to pass timestamp as event epoch in API docs
     Thanks! 
