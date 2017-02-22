@@ -6,4 +6,8 @@
     -- Can you also ping me an email and I'll delete this repo.
 - Useage: ./json.parser.py
 
+- TODO 
+   -- batch up metrics rather then acrew over head from re-establishing sessions
+   -- send time stamp with metric - I couldnt find any documentation on that
+
     Thanks! 
