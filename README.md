@@ -1,1 +1,3 @@
-# metrics
+- Instructions: Ensure input.json is present in local directory
+- Useage: ./json.parser.py
+- MyPages URL = https://metrics.librato.com/s/spaces/387933
