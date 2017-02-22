@@ -8,6 +8,5 @@
 
 - TODO 
    -- batch up metrics rather then acrew over head from re-establishing sessions
-   -- send time stamp with metric - I couldnt find any documentation on that
 
     Thanks! 
