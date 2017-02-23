@@ -9,7 +9,8 @@
 - TODO 
    - batch up metrics rather then acrew over head from re-establishing sessions
    - still trying to locate how to pass timestamp as event epoch in API docs
-   - remote sort dict function, opt for streaming yield / split into two funtions
-   - loading into mem bad for oom, again stream
-   - remve overlooked standard out debug as will slow egress considerably due to tty response times log.info eg.
+   - remove sort dict function, opt for streaming yield / split into two funtions. This sort is i/o bottleneck
+   - loading into mem bad for oom, again stream / yield
+   - remove overlooked standard out debug as will slow egress considerably due to tty response times log.info eg.
+   - manage missing keys/values more gracefully / more error checking.
    
