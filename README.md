@@ -9,4 +9,7 @@
 - TODO 
    - batch up metrics rather then acrew over head from re-establishing sessions
    - still trying to locate how to pass timestamp as event epoch in API docs
-    Thanks! 
+   - remote sort dict function, opt for streaming yield / split into two funtions
+     - loading into mem bad for oom, again stream
+   - remve overlooked std out debug as will slow egress considerably due to tty response times log.info eg.
+   - 
